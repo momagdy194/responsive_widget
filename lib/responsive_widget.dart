@@ -1,8 +1,9 @@
 library responsive_widget;
 
 import 'package:flutter/material.dart';
-import './src/finctions/get_device_type.dart';
-import './src/models/device_info_model.dart';
+import 'package:responsive_widget/src/controller/get_device_type.dart';
+
+import 'src/model/device_info_model.dart';
 
 class ResponsiveUi extends StatelessWidget {
   final Widget Function(BuildContext context, DeviceSize size) builder;

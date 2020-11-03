@@ -1,6 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:responsive_widget/src/enums/enums.dart';
+
+import 'enums.dart';
 
 class DeviceSize {
   final Orientation orientation;

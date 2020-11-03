@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_widget/src/enums/enums.dart';
+import 'package:responsive_widget/src/model/enums.dart';
 
 DeviceType getDeviceType(MediaQueryData mediaQueryData) {
   Orientation orientation = mediaQueryData.orientation;
