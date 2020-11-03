@@ -4,17 +4,20 @@
 A new Flutter package for android ,ios which help users toy make the ui more  responsive.
 
 
-## Screens
+## Screenshot
 
-```html
-<image src="1.png" height="300em" />
-<image src="2.png" height="300em" />
-<image src="3.png" height="300em" />
-<image src="4.png" height="300em" />
-<image src="5.png" height="300em" />
-<image src="6.png" height="300em" />
-<image src="7.png" height="300em" />
-```
+<div>
+<img src="1.png" height="300em" />
+<img src="2.png" height="300em" />
+<img src="3.png" height="300em" />
+</div>
+<div>
+<img src="4.png" height="300em" />
+<img src="5.png" height="300em" />
+<img src="6.png" height="300em" />
+<img src="7.png" height="300em" />
+</div>
+
 ### How To Use It
 
 
