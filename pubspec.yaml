@@ -1,6 +1,6 @@
 name: responsive_widget
 description: A new Flutter package for android , ios ,web  which help users to make the ui more  responsive.
-version: 0.0.1
+version: 0.1.0
 author: mohamed magdy <momagdy194@gmail.com>
 homepage: https://github.com/momagdy194/responsive_widget/blob/main/lib/responsive_widget.dart
 
