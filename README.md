@@ -1,10 +1,12 @@
 # responsive_widget
 
 
-A new Flutter package for android ,ios which help users toy make the ui ,ore responsive.
+A new Flutter package for android ,ios which help users toy make the ui more  responsive.
 
 
 ## Screens
+
+```html
 <image src="1.png" height="300em" />
 <image src="2.png" height="300em" />
 <image src="3.png" height="300em" />
@@ -12,14 +14,13 @@ A new Flutter package for android ,ios which help users toy make the ui ,ore res
 <image src="5.png" height="300em" />
 <image src="6.png" height="300em" />
 <image src="7.png" height="300em" />
-
-
+```
 ### How To Use It
 
 
 * you can see  the example
 
-["Example"](https://github.com/momagdy194/responsive_widget/example/example.dart)
+["Example"](https://github.com/momagdy194/responsive_widget/blob/main/example/lib/main.dart)
 
 
 * and add the dependencies to your file.
@@ -33,9 +34,6 @@ A new Flutter package for android ,ios which help users toy make the ui ,ore res
 
 
 ```dart
-
-
-
 /// i have make that's class you will wrap your widget with "ResponsiveUi" class which he cant tack parameter 
 /// it is type is widget and make instance from Device Size  its name is size///  it will give me type of widget size 
 class MyClass extends StatelessWidget {
@@ -79,15 +77,11 @@ class MyClass extends StatelessWidget {
 
 
 
-
-
-
-
 This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
+[package](https://pub.dev/documentation/responsive_widget/latest/),
 a library module containing code that can be shared easily across
 multiple Flutter or Dart projects.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
+For help getting started with Flutter, view our
+[online documentation](https://pub.dev/packages/responsive_widget), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
