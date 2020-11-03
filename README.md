@@ -14,8 +14,6 @@ A new Flutter package for android ,ios which help users toy make the ui ,ore res
 <image src="7.png" height="300em" />
 
 
-
-
 ### How To Use It
 
 

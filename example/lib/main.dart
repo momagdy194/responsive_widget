@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_widget/responsive_ui.dart';
+import 'package:responsive_widget/responsive_widget.dart';
+
 
 void main() {
   runApp(MyApp());

@@ -1,8 +1,8 @@
-name: responsive_widget
+name: responsive_ui
 description: A new Flutter package.
 version: 0.0.1
-author:
-homepage:
+author: mohamed magdy<momagdy194@gmail.com>
+homepage: https://github.com/momagdy194/responsive_widget/blob/main/lib/responsive_widget.dart
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

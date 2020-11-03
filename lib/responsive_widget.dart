@@ -1,4 +1,4 @@
-library responsive_ui;
+library responsive_widget;
 
 import 'package:flutter/material.dart';
 import './src/finctions/get_device_type.dart';

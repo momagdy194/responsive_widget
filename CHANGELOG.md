@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - release.
 
-* TODO: Describe initial release.
+* A new Flutter package for android ,ios which help users to make android and ios responsive ui.
+
